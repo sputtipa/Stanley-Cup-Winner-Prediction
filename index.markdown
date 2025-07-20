@@ -449,3 +449,5 @@ First, take a look at the predicted percentage for each team in the 2025 season 
 Even though the Colorado Avalanche (COL), ranked third, is my pick, I would say the majority of regular season statistics actually play a very small role in how the model performs. However, some particular stats — like how good a team is at defending against rebound goals — may actually be among the most important aspects of winning the Stanley Cup.
 
 So we’ll see if this model is right — or if I am :-)
+
+ -- A little update as the Stanley Cup Playoffs have completed! The model was correct as the Florida Panthers won the cup! Congratulations to them!
